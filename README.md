@@ -9,6 +9,8 @@ npm install
 npm run dev
 ```
 
+Frontend will be available on `http://localhost:5173`
+
 In frontend, you can see the following pages:
 - Home
 - Category
