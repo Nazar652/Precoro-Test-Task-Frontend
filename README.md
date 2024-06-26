@@ -1,29 +1,22 @@
-# e-commerce
+# Test task frontend for Precoro
 
-This template should help get you started developing with Vue 3 in Vite.
+Frontend is implemented by using Vue3 with Vite. 
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+To run server you need to run following commands:
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+In frontend, you can see the following pages:
+- Home
+- Category
+- Product
+- Login
+- Signup
+- Cart
+- Wishlist
+- Orders
 
-```sh
-npm run build
-```
+Also you can leave comments and replies on the product page.
